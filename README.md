@@ -1,4 +1,4 @@
-# <Insert Name Here>
+# {Insert Name Here}
 
 ## Settup 
 ### Django
