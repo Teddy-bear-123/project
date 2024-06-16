@@ -15,7 +15,7 @@
 
 3. **Install backend dependencies:**
     ```sh
-    pip install -r requirements.txt
+    pip install -r requirements.txt (didnt do this yet)
     ```
 
 4. **Apply migrations and run the server:**
