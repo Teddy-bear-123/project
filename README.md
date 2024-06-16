@@ -44,3 +44,6 @@ The Django backend should now be running on `http://127.0.0.1:8000`.
     npm run dev
     ```
 
+The React frontend should now be running on `http://127.0.0.1:5173`.
+
+
