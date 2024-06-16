@@ -1,0 +1,64 @@
+# Ignore virtual environment directory
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific files
+db.sqlite3
+
+# Vite / Node.js dependencies
+node_modules/
+
+# Ignore package-lock.json (optional, if you want to keep it tracked, remove this line)
+package-lock.json
+
+# Ignore log files and temp files
+*.log
+*.tmp
+temp.txt
+
+# Ignore Python virtual environment files
+*.venv
+*.env
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Python egg files
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+
+# Ignore Vite config and local env files
+.vite/
+.env.local
+
+# Ignore ESLint cache
+.eslintcache
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ignore coverage reports
+coverage/
+*.cover
+
+# Ignore static assets
+staticfiles/
+media/
+
